@@ -1,1 +1,1 @@
-<img src="images/myphoto.jpg" alt="My Photo" width="300">
+
